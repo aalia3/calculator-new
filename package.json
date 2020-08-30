@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalia3/calculator-new.git"
+  },
+  "author": "alia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalia3/calculator-new/issues"
+  },
+  "homepage": "https://github.com/aalia3/calculator-new#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
